@@ -1,0 +1,58 @@
+.nav {
+  background-color: #00d1b2 !important;
+}
+
+td,
+th {
+  vertical-align: middle !important;
+  text-align: center !important;
+  width: 25% !important;
+}
+
+.table {
+  margin: 20px 0;
+  background-color: 
+}
+
+.no-data {
+  background-color: rgba(255, 235, 59, 0) !important;
+}
+
+.no-data .icon {
+  height: 5em;
+  width: 4em;
+}
+.no-data .fa-4 {
+  font-size: 4em !important;
+}
+
+svg {
+  height: 100px;
+}
+
+td:first-of-type,
+td:first-of-type>div {
+  height: 100%;
+  width: 100%;
+}
+
+video {
+  position: fixed;
+  right: 0px;
+  bottom: 0px;
+  min-width: 100%;
+  min-height: 100%;
+  height: auto;
+  width: auto;
+  /*加滤镜*/
+  -webkit-filter: opacity(80%);
+  filter: opacity(80%);
+  
+}
+
+source {
+  min-width: 100%;
+  min-height: 100%;
+  height: auto;
+  width: auto;
+}
