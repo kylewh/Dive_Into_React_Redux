@@ -1,0 +1,13 @@
+{
+  "presets": [
+    ["es2015", {
+      "modules": false,
+      "loose": true
+    }],
+    "es2016",
+    "react"
+  ],
+
+  "plugins": ["transform-class-properties"]
+
+}

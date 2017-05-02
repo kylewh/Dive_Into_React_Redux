@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>React</title>
+  <link rel="stylesheet" href="/public/normalize.css">
+  <link rel="stylesheet" href="/public/style.css">
+</head>
+<body>
+  <div id="app"><%= process.env.NODE_ENV === 'production' ? body : `<div><%= body ></div>` %></div>
+  <script src="/public/bundle.js"></script>
+</body>
+</html>

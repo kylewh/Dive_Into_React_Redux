@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.24.0",
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-react": "^6.23.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "name": "react",
+  "version": "1.0.0",
+  "main": "webpack.config.js",
+  "devDependencies": {},
+  "scripts": {
+    "lint": "standard",
+    "build": "webpack",
+    "watch": "npm run build -- --watch"
+  },
+  "author": "kylewh",
+  "license": "ISC",
+  "description": ""
+}
