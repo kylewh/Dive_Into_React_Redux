@@ -36,23 +36,15 @@ td:first-of-type>div {
   width: 100%;
 }
 
-video {
-  position: fixed;
-  right: 0px;
-  bottom: 0px;
-  min-width: 100%;
-  min-height: 100%;
-  height: auto;
-  width: auto;
-  /*加滤镜*/
-  -webkit-filter: opacity(80%);
-  filter: opacity(80%);
-  
+.hero.main-ct {
+  height: 100vh;
+  width: 100vw;
 }
-
-source {
-  min-width: 100%;
-  min-height: 100%;
-  height: auto;
-  width: auto;
+.weather-bg {
+  position: fixed;
+  height: 100vh;
+  width: 100vw;
+  background-image: url('http://om8hmotom.bkt.clouddn.com/tianqi.jpg');
+  background-size: cover;
+  background-position: center;
 }
