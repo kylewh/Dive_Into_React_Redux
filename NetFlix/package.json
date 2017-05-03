@@ -63,19 +63,5 @@
   },
   "directories": {
     "test": "test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/btholt/complete-intro-to-react.git"
-  },
-  "keywords": [
-    "react",
-    "workshop",
-    "intro",
-    "redux"
-  ],
-  "bugs": {
-    "url": "https://github.com/btholt/complete-intro-to-react/issues"
-  },
-  "homepage": "https://github.com/btholt/complete-intro-to-react#readme"
+  }
 }
