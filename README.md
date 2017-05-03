@@ -2,9 +2,8 @@
 
 ### basicGoThrough
 React基础训练
-![](http://om8hmotom.bkt.clouddn.com/2017-05-03-interface.gif)
-![](http://om8hmotom.bkt.clouddn.com/2017-05-03-BMI.gif)
-
+[点击查看动图](http://om8hmotom.bkt.clouddn.com/2017-05-03-interface.gif)
+[点击查看动图](http://om8hmotom.bkt.clouddn.com/2017-05-03-BMI.gif)
 
 - Interface和BookList用来熟悉react&redux里的一些概念包括： 
 	- render
@@ -21,7 +20,7 @@ React基础训练
 了解并训练react&redux基本原理与方法，感受使用react的乐趣。
 
 ### demo2
-![](http://om8hmotom.bkt.clouddn.com/2017-05-03-Netflix.gif)
+[点击查看动图](http://om8hmotom.bkt.clouddn.com/2017-05-03-Netflix.gif)
 一个Netflix美剧的fakeSearch Demo，用来熟悉练习react开发总体流程，包括： 
 
 - webpack打包配置及压缩优化(preact)
