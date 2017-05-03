@@ -1,7 +1,7 @@
 ## 一个天气搜索应用
 
 ### Preview:    
-![](http://om8hmotom.bkt.clouddn.com/2017-05-03-weather.gif)
+![](http://om8hmotom.bkt.clouddn.com/weather.gif)
 
 ### Tech Stack:
 
